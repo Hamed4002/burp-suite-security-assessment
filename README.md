@@ -53,6 +53,6 @@ detail, root-cause analysis, and remediation per finding are in
 ## Disclaimer
 
 All testing was performed against a local, deliberately vulnerable
-instance of Mutillidae running on our own machine, strictly for
+instance of Mutillidae running on our my machine, strictly for
 coursework. None of this targets, or should be used against, software
 you don't own or have explicit permission to test.
